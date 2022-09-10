@@ -18,4 +18,4 @@ jobs:
           username: "root"
           host: "139.59.32.181"
           password: "9pce4hDHP4qX"
-          script: 'cd /var/www/html/ && ./server_deploy.sh' #cd /var/www/html/MerqataAPI && ./server_deploy.sh
+          script: 'cd /var/www/html/laravel-app-ci-cd-git-actions && ./server_deploy.sh' #cd /var/www/html/MerqataAPI && ./server_deploy.sh
